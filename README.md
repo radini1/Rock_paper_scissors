@@ -1,4 +1,4 @@
-># Rock_paper_scissors
+># Rock_paper_scissors :scissors::page_facing_up::bomb:
 
 _A cool rock-paper-scissors game with GUI._
 ***
